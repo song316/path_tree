@@ -1,5 +1,5 @@
 # PATH_TREE
 > create the path tree with a folder
 
-## user
+## use
   path_tree /the/path/
