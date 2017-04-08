@@ -1,5 +1,5 @@
 # PATH_TREE
-> 自动生成目录的树形结构
+> create the path tree with a folder
 
-## 使用方式
+## user
   path_tree /the/path/
