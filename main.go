@@ -37,7 +37,7 @@ func main() {
 	listFolder(rootPath, "")
 }
 
-//嵌套遍历目录
+//递归遍历目录
 func listFolder(path string, begin string) {
 	files, _ := ioutil.ReadDir(path)
 	for index, file := range files {
